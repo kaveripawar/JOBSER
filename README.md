@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/43050837-9e42-4ec6-927d-e4a07b20fcb2)# JOBSER
+# JOBSER
 
 ## Overview
 **JOBSER** is a job-providing application designed to connect students with job opportunities through NGOs and companies. This platform facilitates a seamless job search and application process, empowering students to secure their ideal positions.
