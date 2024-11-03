@@ -35,6 +35,9 @@ Feel free to explore these images to get an overview of the development journey!
 ![a4b13cca-8dcb-471d-bb22-da8a6c13ba8a](https://github.com/user-attachments/assets/f97c488a-cd72-48e7-942d-467481b4196b)
 ![a882cd3b-4cb2-433b-842f-4b615ea8411d](https://github.com/user-attachments/assets/55e53ea3-9132-44c7-b79e-c936d578456c)
 ![575659c4-f4ea-4bac-9e85-e6fb0d2d5bce](https://github.com/user-attachments/assets/3739ddf5-26d2-44b3-bd7b-e4d3b13fcc39)
+![image](https://github.com/user-attachments/assets/25a302e3-9ddd-4239-bef4-b6c366771944)
+![image](https://github.com/user-attachments/assets/e6cbf4ae-2394-447f-baff-40094ff94cac)
+
 
 ### Instructions
 - Update **Kaveri Pawar**, **pawarkaveri409@gmail.com**, and the GitHub link with your actual information.
