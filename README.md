@@ -39,15 +39,14 @@ Feel free to explore these images to get an overview of the development journey!
 ![image](https://github.com/user-attachments/assets/e6cbf4ae-2394-447f-baff-40094ff94cac)
 ![image](https://github.com/user-attachments/assets/0bf7371b-26eb-48b0-838a-e75eea46aa1e)
 ![image](https://github.com/user-attachments/assets/cb267876-1b6b-4000-9543-6ffba65e9550)
-![image](https://github.com/user-attachments/assets/d2d4344a-6e8f-4749-8b8d-d4a59c13176c)
+
 
 
 
 **"Added new feature for user authentication, including registration and login pages."**
-
+![image](https://github.com/user-attachments/assets/d2d4344a-6e8f-4749-8b8d-d4a59c13176c)
 ![image](https://github.com/user-attachments/assets/d1a99489-af1b-430d-ae92-cb28346bb297)
 ![image](https://github.com/user-attachments/assets/3e1bd3dc-5907-4aa0-8d80-4cc419a6bbca)
-![image](https://github.com/user-attachments/assets/c7be630c-ac70-48bd-b61e-4e54f5bc6f44)
 
 
 
